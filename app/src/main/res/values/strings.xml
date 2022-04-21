@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">XposedDemo</string>
+    <string name="xposedDescription">XposedDemo</string>
+</resources>
